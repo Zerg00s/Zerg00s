@@ -2,7 +2,7 @@
 
 My name is Denis. 
 
-SharePoint 2007-2019, Microsoft 365 Consultant and Developer.
+SharePoint & Microsoft 365 Consultant, Developer.
 
 It seems that after every large project, I come up with something useful to share on Github.  You can find the list of my most interesting projects pinned below.
 
