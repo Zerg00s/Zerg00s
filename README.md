@@ -17,4 +17,4 @@ It seems that after every large project, I come up with something useful to shar
 - [Twitter](https://twitter.com/Zerg00s)
 - [Blog](https://www.linkedin.com/pulse/run-multiple-instances-ms-teams-denis-molodtsov/)
 
-### Also check SP Comics site http://spcomics.ca
+### SP Comics site http://spcomics.ca
