@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**Zerg00s/Zerg00s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Denis. 
 
-Here are some ideas to get you started:
+SharePoint 2007-2019, Microsoft 365 Consultant and Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+It seems that after every large project, I come up with something useful to share on Github. 
+
+You can find the list of my most interesting projects pinned below.
+
+### Skills 💪
+- JavaScript/TypeScript
+- C#, Azure, NodeJS
+- SharePoint, SPFx
+- Power Automate / Power Apps 
+
+### 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/molodtsovd/)
+- [Twitter](https://twitter.com/Zerg00s)
+- [Blog](https://www.linkedin.com/pulse/run-multiple-instances-ms-teams-denis-molodtsov/)
+
+### Also check these out
+
+- 🦅 Check out my SharePoint Comics site: http://spcomics.ca
+- 🔭 I’m currently working on the [SharePoint Migration Dashboard](https://github.com/Zerg00s/sp-migration-dashboard)
+- 👯 I’m looking to collaborate on SharePoint migrations, SPFx, Power Planform and open source in general.
+- 💬 Ask me about SharePoint migrations, SPFx, Power Platform.
