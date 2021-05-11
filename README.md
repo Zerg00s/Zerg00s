@@ -11,7 +11,7 @@ It seems that after every large project, I come up with something useful to shar
 - SharePoint, SPFx
 - Power Automate / Power Apps 
 
-### 📫 How to reach me
+### How to reach me 📫
 
 - [LinkedIn](https://www.linkedin.com/in/molodtsovd/)
 - [Twitter](https://twitter.com/Zerg00s)
