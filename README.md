@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+<hr>
 
 My name is Denis. 
 
