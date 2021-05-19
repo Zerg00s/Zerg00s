@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<hr>
 
 My name is Denis. 
 
