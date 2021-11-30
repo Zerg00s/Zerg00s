@@ -24,6 +24,6 @@
 It seems that after every large project, I come up with something useful to share on Github. I live in Toronto, Canada. You can find the list of my most interesting projects pinned below.
 
 ### Skills 💪
-- C#, Azure, NodeJS
+- C#, Azure, Node.js
 - SharePoint, SPFx
 - Power Automate / Power Apps 
