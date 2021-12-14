@@ -17,6 +17,9 @@
    <a href="https://twitter.com/Zerg00s">
      <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" />
   </a>&nbsp;&nbsp;
+   <a href="https://www.youtube.com/channel/UC7LORag5pdtpAFoNHJJkPKg">
+     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&countColor=%23c4302b" />
+  </a>&nbsp;&nbsp;
 </p>
 
 
