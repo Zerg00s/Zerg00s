@@ -1,8 +1,8 @@
 # Denis Molodtsov
 
 <p align='center'>
-   <a href="http://spcomics.ca" title="SharePoint comics from Denis Molodtsov">
-     <img src="https://img.shields.io/badge/Sp_comics-blog-%23025a5f.svg?&style=for-the-badge&logoColor=white" />
+   <a href="[http://spcomics.ca](https://spdenis.com/)" title="Micorosft 365 Blog">
+     <img src="https://img.shields.io/badge/Sp_denis-blog-%23025a5f.svg?&style=for-the-badge&logoColor=white" />
   </a>&nbsp;&nbsp;     
 </p>  
 
