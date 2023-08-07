@@ -1,7 +1,7 @@
 # Denis Molodtsov
 
 <p align='center'>
-   <a href="[https://spdenis.com](https://spdenis.com)" title="Micorosft 365 Blog">
+   <a href="https://spdenis.com/" title="Micorosft 365 Blog">
      <img src="https://img.shields.io/badge/Sp_denis-blog-%23025a5f.svg?&style=for-the-badge&logoColor=white" />
   </a>&nbsp;&nbsp;     
 </p>  
