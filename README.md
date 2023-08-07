@@ -1,7 +1,7 @@
 # Denis Molodtsov
 
 <p align='center'>
-   <a href="[http://spcomics.ca](https://spdenis.com/)" title="Micorosft 365 Blog">
+   <a href="[https://spdenis.com](https://spdenis.com)" title="Micorosft 365 Blog">
      <img src="https://img.shields.io/badge/Sp_denis-blog-%23025a5f.svg?&style=for-the-badge&logoColor=white" />
   </a>&nbsp;&nbsp;     
 </p>  
@@ -24,7 +24,7 @@
 
 
 ## About me
-It seems that after every large project, I come up with something useful to share on Github. I live in Toronto, Canada. You can find the list of my most interesting projects pinned below.
+After every large project, I develop something helpful to share on GitHub. I live in Toronto, Canada. You can find the list of my most exciting projects pinned below.
 
 ### Skills 💪
 - C#, Azure, Node.js
